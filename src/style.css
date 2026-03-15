@@ -15,5 +15,12 @@ a{
 }
 ul{
     display: flex;
-
+    align-items: center;
+}
+.btn-login{
+    background-color: yellowgreen;
+    padding: 15px;
+    width: 60px;
+    display: inline-block;
+    border-radius: 5px;
 }
