@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    background-color: aqua;
+    align-items: center;
+}
+li{
+    list-style: none;
+    padding-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    display: flex;
+
+}
